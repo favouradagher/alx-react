@@ -1,4 +1,3 @@
-'use strict';
 const $ = require('jquery');
 import './footer.css';
 

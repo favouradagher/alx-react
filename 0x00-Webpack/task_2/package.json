@@ -5,11 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack",
-    "start-dev": "webpack-dev-server --open"
+    "build": "webpack"
   },
   "keywords": [],
-  "author": "Olumide Micheal",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.7.1",
